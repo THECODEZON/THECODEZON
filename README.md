@@ -141,7 +141,7 @@ const THECODEZON = {
 ```
 ╔══════════════════════════════════════════════════╗
 ║   "First, solve the problem. Then, write code."  ║
-║                   — John Johnson                 ║
+║                   — Deepa Das                 ║
 ╚══════════════════════════════════════════════════╝
 ```
 
